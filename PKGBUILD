@@ -1,5 +1,5 @@
 pkgname=vacs-bin
-pkgver=2.3.0
+pkgver=2.3.0 # renovate: datasource=github-tags depName=vacs-project/vacs
 pkgrel=1
 pkgdesc="VACS voice communication client"
 arch=('x86_64')
